@@ -1,0 +1,12 @@
+C:\Users\Desenvolvimento\source\repos\GFTPresentes\GFTPresentes\bin\Debug\netcoreapp3.1\GFTPresentes.exe
+C:\Users\Desenvolvimento\source\repos\GFTPresentes\GFTPresentes\bin\Debug\netcoreapp3.1\GFTPresentes.deps.json
+C:\Users\Desenvolvimento\source\repos\GFTPresentes\GFTPresentes\bin\Debug\netcoreapp3.1\GFTPresentes.runtimeconfig.json
+C:\Users\Desenvolvimento\source\repos\GFTPresentes\GFTPresentes\bin\Debug\netcoreapp3.1\GFTPresentes.runtimeconfig.dev.json
+C:\Users\Desenvolvimento\source\repos\GFTPresentes\GFTPresentes\bin\Debug\netcoreapp3.1\GFTPresentes.dll
+C:\Users\Desenvolvimento\source\repos\GFTPresentes\GFTPresentes\bin\Debug\netcoreapp3.1\GFTPresentes.pdb
+C:\Users\Desenvolvimento\source\repos\GFTPresentes\GFTPresentes\obj\Debug\netcoreapp3.1\GFTPresentes.AssemblyInfoInputs.cache
+C:\Users\Desenvolvimento\source\repos\GFTPresentes\GFTPresentes\obj\Debug\netcoreapp3.1\GFTPresentes.AssemblyInfo.cs
+C:\Users\Desenvolvimento\source\repos\GFTPresentes\GFTPresentes\obj\Debug\netcoreapp3.1\GFTPresentes.csproj.CoreCompileInputs.cache
+C:\Users\Desenvolvimento\source\repos\GFTPresentes\GFTPresentes\obj\Debug\netcoreapp3.1\GFTPresentes.dll
+C:\Users\Desenvolvimento\source\repos\GFTPresentes\GFTPresentes\obj\Debug\netcoreapp3.1\GFTPresentes.pdb
+C:\Users\Desenvolvimento\source\repos\GFTPresentes\GFTPresentes\obj\Debug\netcoreapp3.1\GFTPresentes.genruntimeconfig.cache
